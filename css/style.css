@@ -1,0 +1,484 @@
+
+
+.container-fluid{
+
+  width: 70px;
+  height:70px;
+}
+
+
+
+.parents{ 
+
+ 
+  display: flex; 
+   
+justify-content: center; 
+flex-direction: row; 
+}
+.child1{ 
+
+  width:360px; 
+  height: 250px; 
+  background-color:rgb(39, 109, 39); 
+} 
+ 
+.child2{ 
+ 
+  width:360px; 
+  height: 250px; 
+  background-color:rgb(36, 114, 36); 
+} 
+.child3{ 
+ 
+  width:360px; 
+  height: 250px; 
+  background-color: rgb(41, 117, 41); 
+} 
+
+
+.span1{ 
+  height: 30px; 
+ font-size: 40px; 
+ padding: center; 
+ text-align: center; 
+ display: block; 
+ margin: auto; 
+ color: white;
+
+} 
+ 
+
+ 
+
+
+
+.span{
+
+  height: 20px; 
+  font-size: 40px; 
+  padding: center; 
+  text-align: center; 
+  display: block; 
+  margin: auto; 
+  color: white;
+
+}
+.spa{
+
+  height: 20px; 
+  font-size: 40px; 
+  padding: center; 
+  text-align: center; 
+  display: block; 
+  margin: auto; 
+  color: white;
+ } 
+
+
+
+ figcaption{
+  height: 20px;
+  text-align: center; 
+  margin: left; 
+  position: relative; 
+  display: inline-flex; 
+  
+} 
+
+
+
+
+
+h5{
+  text-align: center; 
+  margin: left; 
+  position: relative; 
+  display: inline-flex; 
+
+
+}
+
+
+
+
+
+
+p{
+  text-align: center;
+  font-size: 25px;
+  justify-content: center;
+ align-items: center;
+
+}
+
+.card-header:first-child {
+  border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+  background-color: green !important;
+}
+
+.text-secondary {
+  color: #6a6e72 !important;
+}
+.card-header{
+color: white;
+  text-align: center;
+  font-size: 25px;
+  justify-content: center;
+ align-items: center;
+}
+.card-text{
+  color: black;
+  text-align: center;
+  size: 30px;
+  justify-content: center;
+ align-items: center;
+
+
+}
+
+
+.table{
+
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+
+
+}
+.table1{
+
+  width: 250px; 
+  height:250px; 
+  background-color: rgb(255, 255, 255);
+  color: rgb(44, 131, 66);
+
+font-size: 20px;
+
+
+
+
+
+
+}
+.table2{
+
+  width: 250px; 
+  height:250px; 
+  background-color: rgb(255, 255, 255);
+  color: darkgreen;
+
+  font-size: 20px;
+}
+
+.table3{
+
+  width: 250px; 
+  height:250px; 
+  background-color: rgb(255, 254, 254);
+  color: darkgreen;
+  font-size: 20px;
+
+}
+
+.table4{
+
+  width: 250px; 
+  height:250px; 
+  background-color: rgb(255, 255, 255);
+  color:darkgree ;
+
+  font-size: 20px;
+}
+
+
+
+
+
+  .uu {
+    list-style: none;
+  }
+  
+  .uu li:before {
+    content: '✓';
+  }
+  
+  .ua {
+    list-style: none;
+  }
+  
+  .ua li:before {
+    content: '✓';
+  }
+  
+
+
+  .ui {
+    list-style: none;
+  }
+  
+  .ui li:before {
+    content: '✓';
+  }
+  .uz {
+    list-style: none;
+  }
+  
+  .uz li:before {
+    content: '✓';
+  }
+  
+
+
+
+
+
+.true{
+
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+ 
+
+}
+
+.div1{
+
+  width: 250px; 
+  height:50px; 
+  background-color: darkgreen;
+  color: white;
+
+}
+
+
+.div2{
+
+  width: 250px; 
+  height:50px; 
+  background-color:darkgreen;
+  color: white;
+
+}
+
+.div3{
+
+  width: 250px; 
+  height:50px; 
+  background-color: darkgreen;
+  color: white;
+
+}
+.div4{
+
+  width: 250px; 
+  height:50px; 
+  background-color:darkgreen;
+  color: white;
+
+}
+
+.parent{
+
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+
+ 
+}
+
+.card{
+
+  width: 19rem;
+
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+ 
+}
+.card-text{
+font-size: 12px;
+
+}
+.card{
+
+  width: 19rem;
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+ 
+}
+
+.card-te{
+  font-size: 12px;
+  
+  }
+
+  .card{
+
+      width: 19rem;
+      display: flex; 
+       
+      justify-content: center; 
+      flex-direction: row; 
+     justify-content: space-evenly;
+     
+    }
+
+    .par{
+
+
+      display: flex; 
+   
+      justify-content: center; 
+      flex-direction: row; 
+     justify-content: space-evenly;
+     
+
+    }
+    .card{
+      border: 10px;
+        width: 19rem;
+        display: flex; 
+         
+        justify-content: center; 
+        flex-direction: row; 
+       justify-content: space-evenly;
+       
+      }
+
+      .card{
+        border: 10px;
+          width: 19rem;
+          display: flex; 
+           
+          justify-content: center; 
+          flex-direction: row; 
+         justify-content: space-evenly;
+         float: 0;
+         margin: 0;
+         padding: 0;
+         
+        }
+        .card{
+          border: 10px;
+            width: 19rem;
+            display: flex; 
+             
+            justify-content: center; 
+            flex-direction: row; 
+           justify-content: space-evenly;
+           float: 0;
+           
+          }
+
+         .cursor{
+       
+          
+           background-color: #e9e1e1 !important;
+            color: rgb(99, 99, 99) !important;
+        }
+
+
+        .card-body {
+          flex: 1 1 auto !important;
+          padding: 1rem 1rem !important;
+          background-color: rgba(233, 227, 227, 0.788) !important;
+      }
+
+      .new{
+        -webkit-appearance: button !important;
+        background-color:  #8d8888 !important;!important;
+    }
+
+    element.style {
+    }
+   .pe,bg-dark{
+
+background-color:darkgreen ;
+
+   }
+   .navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    background-color: darkgreen;
+}
+
+[type=submit]:not(:disabled) {
+  cursor: pointer;
+  background-color: #b6b6b659;
+}
+
+.navbar-light .navbar-brand {
+  color: rgb(253, 253, 253) !important;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  color: rgb(253, 249, 249) !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(255, 252, 252);
+}
+
+.nav-link {
+  color: rgb(255, 255, 255) !important;
+}
+
+.btn-outline-success:hover {
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+  color: white !important;
+}
+
+[type=submit]:not(:disabled) {
+  cursor: pointer;
+  background-color: #b6b6b6;
+  color: white;
+}
+
+b, strong {
+  font-weight: bolder;
+  color: green !important;
+}
+
+
+.square{
+  display: flex; 
+   
+  justify-content: center; 
+  flex-direction: row; 
+ justify-content: space-evenly;
+ 
+
+
+}
+.one{
+
+  width:200px; 
+  height: 120px; 
+  background-color:rgb(39, 109, 39); 
+
+}
+.two{
+  width:200px; 
+  height:120px; 
+  background-color:rgb(39, 109, 39); 
+}
+.three{
+
+  width:200px; 
+  height:120x; 
+  background-color:rgb(39, 109, 39); 
+}
